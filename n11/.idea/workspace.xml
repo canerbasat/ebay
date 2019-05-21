@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ad26250-a3a1-4548-97a3-73b1783a853e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/driver/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/driver/chromedriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ProductDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/SearchList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/ChromeDriverSetUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ChromeDriverSetUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/MainPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/Payment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ProductDetail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/SearchList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ChromeDriverSetUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ChromeDriverSetUp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/MyTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,14 +37,27 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1506473099">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="91" column="33" lean-forward="true" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
+            <state relative-caret-position="1365">
+              <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/MyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="135">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -79,19 +77,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/net/SocketInputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
+            <state relative-caret-position="1185">
               <caret line="109" column="50" selection-start-line="109" selection-start-column="50" selection-end-line="109" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/ChromeDriverSetUp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+            <state relative-caret-position="495">
+              <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1039#1040#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,9 +124,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/SearchList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/FavoritesPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/ChromeDriverSetUp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/MainPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ChromeDriverSetUp.java" />
       </list>
     </option>
   </component>
@@ -147,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,12 +210,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558449763745" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558450642146" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -235,7 +234,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyTest.FavoriyeUrunEkleVeKaldir">
+  <component name="RunManager" selected="JUnit.MyTest.Ebay_product_add_to_watch">
+    <configuration name="MyTest.Ebay_product_add_to_watch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="saha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.MyTest" />
+      <option name="METHOD_NAME" value="Ebay_product_add_to_watch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyTest.FavoriyeUrunEkleVeKaldir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="saha" />
       <extension name="coverage">
@@ -305,9 +320,11 @@
       <item itemvalue="JUnit.MyTest.deneme" />
       <item itemvalue="JUnit.MyTest.FavoriyeUrunEkleVeKaldir" />
       <item itemvalue="JUnit.MyTest.sendKeySearch" />
+      <item itemvalue="JUnit.MyTest.Ebay_product_add_to_watch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyTest.Ebay_product_add_to_watch" />
         <item itemvalue="JUnit.MyTest.FavoriyeUrunEkleVeKaldir" />
         <item itemvalue="JUnit.MyTest.sendKeySearch" />
         <item itemvalue="JUnit.MyTest.Test1" />
@@ -328,16 +345,11 @@
       <workItem from="1554726150402" duration="13035000" />
       <workItem from="1555337258355" duration="244000" />
       <workItem from="1558440265630" duration="4996000" />
+      <workItem from="1558450069673" duration="292000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyTest_FavoriyeUrunEkleVeKaldir - 2019.05.21 at 17h 23m 34s.xml">
-      <configuration name="MyTest.FavoriyeUrunEkleVeKaldir" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTest_FavoriyeUrunEkleVeKaldir - 2019.05.21 at 17h 25m 01s.xml">
-      <configuration name="MyTest.FavoriyeUrunEkleVeKaldir" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MyTest_FavoriyeUrunEkleVeKaldir - 2019.05.21 at 17h 29m 18s.xml">
       <configuration name="MyTest.FavoriyeUrunEkleVeKaldir" configurationId="JUnit" />
     </history-entry>
@@ -362,9 +374,15 @@
     <history-entry file="MyTest_FavoriyeUrunEkleVeKaldir - 2019.05.21 at 17h 42m 11s.xml">
       <configuration name="MyTest.FavoriyeUrunEkleVeKaldir" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MyTest_Ebay_product_add_to_watch - 2019.05.21 at 17h 49m 49s.xml">
+      <configuration name="MyTest.Ebay_product_add_to_watch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_Ebay_product_add_to_watch - 2019.05.21 at 17h 54m 35s.xml">
+      <configuration name="MyTest.Ebay_product_add_to_watch" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18275000" />
+    <option name="totallyTimeSpent" value="18567000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -379,8 +397,8 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4963925" visible="true" weight="0.17155068" />
-      <window_info id="Structure" order="1" sideWeight="0.5036075" side_tool="true" visible="true" weight="0.17155068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4949495" visible="true" weight="0.17338218" />
+      <window_info id="Structure" order="1" sideWeight="0.5050505" side_tool="true" visible="true" weight="0.17338218" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -552,64 +570,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/saha.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/FavoritesPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/FavoritesPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SearchList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/LoginPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="1365">
+          <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/SearchList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ChromeDriverSetUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" selection-start-line="9" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/net/SocketInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
+        <state relative-caret-position="1185">
           <caret line="109" column="50" selection-start-line="109" selection-start-column="50" selection-end-line="109" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="91" column="33" lean-forward="true" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/saha.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/MyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="135">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ChromeDriverSetUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

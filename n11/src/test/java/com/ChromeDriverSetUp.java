@@ -32,7 +32,7 @@ public abstract class ChromeDriverSetUp {
 
     @After
     public void AfterQuitWebDriver(){
-       // driver.quit();
+        driver.quit();
     }
 
 
